@@ -3,6 +3,9 @@
 ## This is the shared workspace for COMP20007 peers in University 2018
 ## Anyone can upload their program to this directory
 
+* 9 Apr:
+  * If you are also same subjects as us, and want to share your work to the repo. Please leave a comment in the issue section with your github username or contact me via (linkedin)[www.linkedin.com/in/calvin-zhuoqun-huang] or (facebook)[https://www.facebook.com/profile.php?id=100009237564397&sk=timeline].
+
 * 11 Mar:
   * If you are not familiar with github and how it works. Check this excellent video tutorial by Daniel Shiffman.
   * https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
